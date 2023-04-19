@@ -1,1 +1,36 @@
-{"$schema":"https://aka.ms/winget-packages.schema.1.0.json","WinGetVersion":"0.3.11201","Sources":[{"Packages":[{"Id":"7zip.7zip","Version":"22.01"},{"Id":"Microsoft.WindowsTerminal","Version":"1.16.10261.0"},{"Id":"Microsoft.PowerShell","Version":"7.3.4.0"},{"Id":"JanDeDobbeleer.OhMyPosh","Version":"14.30.0"},{"Id":"Microsoft.VisualStudioCode.Insiders","Version":"1.78.0"}],"SourceDetails":{"Argument":"https://winget.azureedge.net/cache","Identifier":"Microsoft.Winget.Source_8wekyb3d8bbwe","Name":"winget","Type":"Microsoft.PreIndexed.Package"}}]}
+{
+    "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
+    "WinGetVersion": "0.3.11201",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "Id": "7zip.7zip",
+                    "Version": "22.01"
+                },
+                {
+                    "Id": "Microsoft.WindowsTerminal",
+                    "Version": "1.16.10261.0"
+                },
+                {
+                    "Id": "Microsoft.PowerShell",
+                    "Version": "7.3.4.0"
+                },
+                {
+                    "Id": "JanDeDobbeleer.OhMyPosh",
+                    "Version": "14.30.0"
+                },
+                {
+                    "Id": "Microsoft.VisualStudioCode.Insiders",
+                    "Version": "1.78.0"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
